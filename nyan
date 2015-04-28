@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-
+import colors as c
 
 while True:
-    print('meow ', end='')
+    print(c.red + 'meow ', end='')

@@ -3,7 +3,6 @@
 import random
 import colors as c
 
-
 yellow = '\033[0;33m' 
 red = '\033[0;31m'
 orange = '\033[1;31m'
